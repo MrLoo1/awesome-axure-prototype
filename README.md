@@ -7,5 +7,5 @@
 # Axure原型作品
 ---
 1. 某团队开源作品
-  Axuere在线浏览地址  [http://www.cduyzh.com/Axure-project]
-  Github地址  [https://github.com/cduyzh/AxureProject-WebApp]
+  * Axuere在线浏览地址  [http://www.cduyzh.com/Axure-project]
+  * Github地址  [https://github.com/cduyzh/AxureProject-WebApp]
